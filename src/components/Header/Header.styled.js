@@ -11,9 +11,8 @@ export const HeaderWrapper = styled.header`
    
 
    .logo{
-    height: 4%.5;
+    
     fill: ${(props) => props.theme.colors.text};
-    margin-top: 30px;
 
    }
 
